@@ -3,7 +3,7 @@ const map = new mapboxgl.Map({
 container: 'map', // container ID
 style: 'mapbox://styles/mapbox/satellite-v9', // style URL
 center: [-103.2502, 29.2498], // starting position [lng, lat]
-zoom: 9, // starting zoom
+zoom: 8, // starting zoom
 pitch: 85,
 bearing: 80, 
 projection: 'globe', 
